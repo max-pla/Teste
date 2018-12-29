@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is B412-AE00
+
+ Directory of C:\AndroidStudioProjects\LeaderAsk\LeaderAsk Football\LeaderAsk Football 1.2\leadearask-fottball1.2-repository
+
+29-Dec-18  06:05 AM    <DIR>          .
+29-Dec-18  06:05 AM    <DIR>          ..
+29-Dec-18  06:05 AM                 0 teste.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  530,779,623,424 bytes free
